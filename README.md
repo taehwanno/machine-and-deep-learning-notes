@@ -12,3 +12,4 @@ Based on [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.
 - [1. Machine learning basics](https://github.com/taehwanno/machine-and-deep-learning-notes/blob/master/lecture-notes/1.machine-learning-basics.md)
 - [2. Linear regression](https://github.com/taehwanno/machine-and-deep-learning-notes/blob/master/lecture-notes/2.linear-regression.md)
 - [3. How to minimize cost](https://github.com/taehwanno/machine-and-deep-learning-notes/blob/master/lecture-notes/3.how-to-minimize-cost.md)
+- [4. Multi-variable linear regression](https://github.com/taehwanno/machine-and-deep-learning-notes/blob/master/lecture-notes/4.multi-variable-linear-regression.md)

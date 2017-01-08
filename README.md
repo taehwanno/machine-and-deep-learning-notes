@@ -5,6 +5,9 @@ Based on [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.
 ## Environment
 
 - python3
+- tensorflow (`v0.12.1`)
+- numpy (`v1.11.3`)
+- matplotlib (`v1.5.3`)
 
 ## Lecture notes
 
